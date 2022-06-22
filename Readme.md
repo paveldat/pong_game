@@ -22,4 +22,5 @@ To solve it just change the value in this line (for example to `1`).
 Increment this number until you see your webcam.
 
 ## Result
+
 ![Alt Text](https://github.com/paveldat/pong_game/blob/main/img/Result.gif)
